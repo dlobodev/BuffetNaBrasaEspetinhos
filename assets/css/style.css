@@ -1411,8 +1411,8 @@ section {
 
 @media (min-width: 768px) {
   .contact .contact-phone {
-    border-left: 1px solid #ddd;
-    border-right: 1px solid #ddd;
+    /*border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;*/
   }
 
   .contact .contact-address,
